@@ -1,7 +1,7 @@
 Flask==1.1.1
 Flask-Cors==3.0.8
 html5lib==1.0.1
-joblib==0.13.2
+joblib==1.2.0
 json5==0.8.5
 jsonschema==3.0.2
 nltk==3.4.5
